@@ -76,8 +76,8 @@ NEXT_PUBLIC_WEB_URL = "http://localhost:3000/"
 
 ## Related Project
 
-- [`Frontend-coffeshop`](https://github.com/muchamadagush/coffee-shop)
-- [`Backend-coffeshop`](https://github.com/muchamadagush/backend-CoffeeShop)
+- [`Frontend-coffeshop`](https://github.com/Nisanisa7/coffee-shop/)
+- [`Backend-coffeshop`](https://github.com/Nisanisa7/backend-CoffeeShop)
 
 ## Team
 
