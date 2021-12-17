@@ -68,14 +68,25 @@ As an admin, they can manage data products, manage data orders, and edit their p
     <td><image src='./screenshots/Coffee Shop11.png' width=100%/></td>
   </tr>
   
+   <tr>
+    <td>Admin - Product Page</td>
+    <td>Edit product Page</td>
+  </tr>
+  <tr>
+    <td> <image src='./screenshots/Coffee Shop12.png' width=100%></td>
+    <td> <image src='./screenshots/Coffee Shop13.png' width=100%/></td>
+  </tr>
+  
+   <tr>
+    <td>Delete product Confirmation</td>
+    <td>History Page</td>
+  </tr>
+  <tr>
+    <td> <image src='./screenshots/Coffee Shop14.png' width=100%></td>
+    <td> <image src='./screenshots/Coffee Shop15.png' width=100%/></td>
+  </tr>
+  
  </table>
- 
-  <div align="center">
-    <image src='./screenshots/Coffee Shop12.png' width=45%/>
-    <image src='./screenshots/Coffee Shop13.png' width=45%/>
-    <image src='./screenshots/Coffee Shop14.png' width=45%/>
-    <image src='./screenshots/Coffee Shop15.png' width=45%/>
-  </div>
 </p>
 
 ## Built With
