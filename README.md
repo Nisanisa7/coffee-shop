@@ -12,16 +12,17 @@
 
 ## About The Project
 
-Coffee Shop is a store that sells some good meals, and especially coffee. We provide high quality beans. <br/>
-With this app user can order food and can choose to dine-in or delivery. <br/>
-User can also edit their profile
-
+Coffee Shop is a store that sells some good meals, and especially coffee. We provide high-quality beans. <br/>
+There are two roles in this app with their feature, that's admin and customer.
+Customers can order food and can choose to dine-in or delivery, and they can also edit their profile. <br/>
+As an admin, they can manage data products, manage data orders, and edit their profile.
 ## Screenshots
 
 <p align="center" display=flex>
   <image src='./screenshots/Coffee Shop1.png' width=45%/>
   <div align="center">
     <image src='./screenshots/Coffee Shop2.png' width=45%/>
+    <p> Landing Page </p>
     <image src='./screenshots/Coffee Shop3.png' width=45%/>
     <image src='./screenshots/Coffee Shop16.png' width=45%/>
     <image src='./screenshots/Coffee Shop4.png' width=45%/>
