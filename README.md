@@ -12,7 +12,9 @@
 
 ## About The Project
 
-Coffee Shop is a store that sells some good meals, and especially coffee. We provide high quality beans
+Coffee Shop is a store that sells some good meals, and especially coffee. We provide high quality beans.
+With this app user can order food and cah use to dine-in or home delivery.
+User can also edit their profile
 
 ## Screenshots
 
