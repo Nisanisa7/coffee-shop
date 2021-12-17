@@ -43,7 +43,7 @@ As an admin, they can manage data products, manage data orders, and edit their p
   
   <tr>
     <td>Detail Product Page</td>
-    <td>Product in Cart/td>
+    <td>Product in Cart</td>
   </tr>
   <tr>
     <td><image src='./screenshots/Coffee Shop6.png' width=100%></td>
@@ -52,18 +52,25 @@ As an admin, they can manage data products, manage data orders, and edit their p
   
    <tr>
     <td>Checkout Page</td>
-    <td>History Page/td>
+    <td>History Page</td>
   </tr>
   <tr>
     <td><image src='./screenshots/Coffee Shop8.png' width=100%></td>
     <td><image src='./screenshots/Coffee Shop9.png' width=100%/></td>
   </tr>
   
+  <tr>
+    <td>Profile Page</td>
+    <td>Add Product Page</td>
+  </tr>
+  <tr>
+    <td><image src='./screenshots/Coffee Shop10.png' width=100%></td>
+    <td><image src='./screenshots/Coffee Shop11.png' width=100%/></td>
+  </tr>
+  
  </table>
  
   <div align="center">
-    <image src='./screenshots/Coffee Shop10.png' width=45%/>
-    <image src='./screenshots/Coffee Shop11.png' width=45%/>
     <image src='./screenshots/Coffee Shop12.png' width=45%/>
     <image src='./screenshots/Coffee Shop13.png' width=45%/>
     <image src='./screenshots/Coffee Shop14.png' width=45%/>
