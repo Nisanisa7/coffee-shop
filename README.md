@@ -25,11 +25,11 @@ As an admin, they can manage data products, manage data orders, and edit their p
   <table>
   <tr>
     <td>Sign-up Page</td>
-    <td>Sign-in  Page</td>
+    <td>Sign-in Page</td>
   </tr>
   <tr>
-    <td><image src='./screenshots/Coffee Shop2.png' width=45%></td>
-    <td><image src='./screenshots/Coffee Shop3.png' width=45%/></td>
+    <td><image src='./screenshots/Coffee Shop2.png' width=100%></td>
+    <td><image src='./screenshots/Coffee Shop3.png' width=100%/></td>
   </tr>
  </table>
  
