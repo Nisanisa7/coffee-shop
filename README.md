@@ -13,7 +13,7 @@
 ## About The Project
 
 Coffee Shop is a store that sells some good meals, and especially coffee. We provide high quality beans. <br/>
-With this app user can order food and cah use to dine-in or home delivery. <br/>
+With this app user can order food and can choose to dine-in or delivery. <br/>
 User can also edit their profile
 
 ## Screenshots
