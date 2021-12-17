@@ -31,6 +31,7 @@ As an admin, they can manage data products, manage data orders, and edit their p
     <td><image src='./screenshots/Coffee Shop2.png' width=100%></td>
     <td><image src='./screenshots/Coffee Shop3.png' width=100%/></td>
   </tr>
+  
   <tr>
     <td>Forgot Password Page</td>
     <td>Home Page</td>
@@ -39,13 +40,28 @@ As an admin, they can manage data products, manage data orders, and edit their p
     <td><image src='./screenshots/Coffee Shop16.png' width=100%></td>
     <td><image src='./screenshots/Coffee Shop4.png' width=100%/></td>
   </tr>
+  
+  <tr>
+    <td>Detail Product Page</td>
+    <td>Product in Cart/td>
+  </tr>
+  <tr>
+    <td><image src='./screenshots/Coffee Shop6.png' width=100%></td>
+    <td><image src='./screenshots/Coffee Shop7.png' width=100%/></td>
+  </tr>
+  
+   <tr>
+    <td>Checkout Page</td>
+    <td>History Page/td>
+  </tr>
+  <tr>
+    <td><image src='./screenshots/Coffee Shop8.png' width=100%></td>
+    <td><image src='./screenshots/Coffee Shop9.png' width=100%/></td>
+  </tr>
+  
  </table>
  
   <div align="center">
-    <image src='./screenshots/Coffee Shop6.png' width=45%/>
-    <image src='./screenshots/Coffee Shop7.png' width=45%/>
-    <image src='./screenshots/Coffee Shop8.png' width=45%/>
-    <image src='./screenshots/Coffee Shop9.png' width=45%/>
     <image src='./screenshots/Coffee Shop10.png' width=45%/>
     <image src='./screenshots/Coffee Shop11.png' width=45%/>
     <image src='./screenshots/Coffee Shop12.png' width=45%/>
