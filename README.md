@@ -19,9 +19,13 @@ As an admin, they can manage data products, manage data orders, and edit their p
 ## Screenshots
 
 <p align="center" display=flex>
-  <p align="center"> Landing Page </p>
-  <image src='./screenshots/Coffee Shop1.png' width=45%/> 
   <table>
+    <tr>
+      <td>Landing Page</td>
+    </tr>
+     <tr>
+      <td><image src='./screenshots/Coffee Shop1.png' width=100%></td>
+    </tr>
   <tr>
     <td>Sign-up Page</td>
     <td>Sign-in Page</td>
