@@ -19,74 +19,74 @@ As an admin, they can manage data products, manage data orders, and edit their p
 ## Screenshots
 
 <p align="center" display=flex>
-  <table>
-    <tr align="center">
-      <td>Landing Page</td>
-    </tr>
-     <tr align="center">
-      <td><image src='./screenshots/Coffee Shop1.png' width=100%></td>
-    </tr>
-  <tr>
-    <td>Sign-up Page</td>
-    <td>Sign-in Page</td>
-  </tr>
+
+      <td><image src='./screenshots/Coffee Shop1.png' width=45%></td>
+       <p align="center">Landing Page</p>
+
+<table>
+ 
   <tr>
     <td><image src='./screenshots/Coffee Shop2.png' width=100%></td>
     <td><image src='./screenshots/Coffee Shop3.png' width=100%/></td>
   </tr>
-  
-  <tr>
-    <td>Forgot Password Page</td>
-    <td>Home Page</td>
+   <tr>
+    <td>Sign-up Page</td>
+    <td>Sign-in Page</td>
   </tr>
+  
   <tr>
     <td><image src='./screenshots/Coffee Shop16.png' width=100%></td>
     <td><image src='./screenshots/Coffee Shop4.png' width=100%/></td>
   </tr>
-  
   <tr>
-    <td>Detail Product Page</td>
-    <td>Product in Cart</td>
+    <td>Forgot Password Page</td>
+    <td>Home Page</td>
   </tr>
+
   <tr>
     <td><image src='./screenshots/Coffee Shop6.png' width=100%></td>
     <td><image src='./screenshots/Coffee Shop7.png' width=100%/></td>
   </tr>
-  
-   <tr>
-    <td>Checkout Page</td>
-    <td>History Page</td>
+    <tr>
+    <td>Detail Product Page</td>
+    <td>Product in Cart</td>
   </tr>
+  
   <tr>
     <td><image src='./screenshots/Coffee Shop8.png' width=100%></td>
     <td><image src='./screenshots/Coffee Shop9.png' width=100%/></td>
   </tr>
-  
   <tr>
-    <td>Profile Page</td>
-    <td>Add Product Page</td>
+    <td>Checkout Page</td>
+    <td>History Page</td>
   </tr>
+  
+
   <tr>
     <td><image src='./screenshots/Coffee Shop10.png' width=100%></td>
     <td><image src='./screenshots/Coffee Shop11.png' width=100%/></td>
   </tr>
-  
-   <tr>
-    <td>Admin - Product Page</td>
-    <td>Edit product Page</td>
+  <tr>
+    <td>Profile Page</td>
+    <td>Add Product Page</td>
   </tr>
+   
   <tr>
     <td> <image src='./screenshots/Coffee Shop12.png' width=100%></td>
     <td> <image src='./screenshots/Coffee Shop13.png' width=100%/></td>
   </tr>
-  
    <tr>
-    <td>Delete product Confirmation</td>
-    <td>History Page</td>
+    <td>Admin - Product Page</td>
+    <td>Edit product Page</td>
   </tr>
+  
   <tr>
     <td> <image src='./screenshots/Coffee Shop14.png' width=100%></td>
     <td> <image src='./screenshots/Coffee Shop15.png' width=100%/></td>
+  </tr>
+ <tr>
+    <td>Delete product Confirmation</td>
+    <td>History Page</td>
   </tr>
   
  </table>
